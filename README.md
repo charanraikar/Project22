@@ -10,7 +10,7 @@ The core requirement of this service is to process incoming laboratory order JSO
 1. **Status**: An enum (`Accepted` or `Rejected`).
 2. **Order**: The parsed and normalized `Order` object (if `Accepted`), or `null` (if `Rejected`).
 3. **Errors**: A list of `ValidationError` objects specifying the `Field`, `Code`, and `Message` for failing rules.
-
+4. 
  ```mermaid
 flowchart TD
     A[Laboratory Order JSON String] --> B[OrderIntakeService.Process]
