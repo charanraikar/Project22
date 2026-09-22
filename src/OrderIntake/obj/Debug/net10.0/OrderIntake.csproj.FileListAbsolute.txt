@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\Project22\src\OrderIntake\bin\Debug\net10.0\OrderIntake.deps.json
+C:\Users\Lenovo\Desktop\Project22\src\OrderIntake\bin\Debug\net10.0\OrderIntake.dll
+C:\Users\Lenovo\Desktop\Project22\src\OrderIntake\bin\Debug\net10.0\OrderIntake.pdb
+C:\Users\Lenovo\Desktop\Project22\src\OrderIntake\obj\Debug\net10.0\OrderIntake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Project22\src\OrderIntake\obj\Debug\net10.0\OrderIntake.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Project22\src\OrderIntake\obj\Debug\net10.0\OrderIntake.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Project22\src\OrderIntake\obj\Debug\net10.0\OrderIntake.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Project22\src\OrderIntake\obj\Debug\net10.0\OrderIntake.sourcelink.json
+C:\Users\Lenovo\Desktop\Project22\src\OrderIntake\obj\Debug\net10.0\OrderIntake.dll
+C:\Users\Lenovo\Desktop\Project22\src\OrderIntake\obj\Debug\net10.0\refint\OrderIntake.dll
+C:\Users\Lenovo\Desktop\Project22\src\OrderIntake\obj\Debug\net10.0\OrderIntake.pdb
+C:\Users\Lenovo\Desktop\Project22\src\OrderIntake\obj\Debug\net10.0\ref\OrderIntake.dll
